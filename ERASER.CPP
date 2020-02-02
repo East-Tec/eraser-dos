@@ -1,33 +1,33 @@
 /*--------------------------------------------------------------------------
  *
- *	Welcome to Eraser for MS-DOS!
+ *  Welcome to Eraser for MS-DOS!
  *
- *	Eraser is still under developement.
- *	Current version is 0.1 (pre-official release).
+ *  Eraser is still under developement.
+ *  Current version is 0.1 (pre-official release).
  *
- *	Eraser's main goals are super-speed and super-options.
- *	In its actual form Eraser is already one of the fastest file wipe
- *	utilities in the world !!! (courtesy of assembler code, of course).
+ *  Eraser's main goals are super-speed and super-options.
+ *  In its actual form Eraser is already one of the fastest file wipe
+ *  utilities in the world !!! (courtesy of assembler code, of course).
  *
  *  Eraser97 for Windows 95 is under developement, too.
- *	Contact the author for more information.
+ *  Contact the author for more information.
  *
- *	ERASER.CPP: Source code
+ *  ERASER.CPP: Source code
  *
- *	May 1997
+ *  May 1997
  *
- *	Copyright (c) 1997 Horatiu Tanescu / East-Tec
- *	https://www.east-tec.com
+ *  Copyright (c) 1997 Horatiu Tanescu / East-Tec
+ *  https://www.east-tec.com
  *
- *	Written and compiled under Borland C++ Version 3.1.
+ *  Written and compiled under Borland C++ Version 3.1.
  *
  *  Licensed under the MIT License. See LICENSE file in the project
  *  root for full license information.
  *
  *--------------------------------------------------------------------------
  *
- *	Revision history:
- *      1.0	May 27 1997	Initial coding.
+ *  Revision history:
+ *  1.0     May 27 1997     Initial coding.
  *
  */
 
